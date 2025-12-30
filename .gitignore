@@ -54,3 +54,6 @@ msbuild*.log
 
 # Application data (your reminders file)
 reminders.json
+
+# CLAUDE Code
+CLAUDE.md
