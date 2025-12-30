@@ -1,0 +1,56 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache/options
+*.vsidx
+*.lock.json
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+launchSettings.json
+
+# Publish output
+publish/
+
+# Build logs
+*.log
+msbuild*.log
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Application data (your reminders file)
+reminders.json
