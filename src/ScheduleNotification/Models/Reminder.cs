@@ -14,9 +14,9 @@ namespace ScheduleNotification.Models
 
     public enum RepeatType
     {
-        None,       // one time
-        Daily,      // every day
-        Weekly,     // every week
-        Monthly     // every month
-    }
+        None,
+        Daily,
+        Weekly,
+        Monthly
+    } 
 }
